@@ -22,5 +22,9 @@ Template for reference:
 
 | Excercise | Set 1 | Set 2 | Set 3 | Set 4| Set 5| Set 6 | Set 7 |
 |-----------|-------|-------|-------|------|-------|------|-------|
-|Wide grip lat pull down|10x30lb|10x40lb|
+|Wide grip lat pull down|14x75lb|10x100lb|10x100lb|8x100lb|
+|Seated v bar row|10x87lb|10x87lb|10x87lb|
+|Single arm row|10x40lb|10x40lb|10x40lb|
+|Alternate Biceps dumbbell curl|10x25lb|10x25lb|10x25lb|
+
 ---
