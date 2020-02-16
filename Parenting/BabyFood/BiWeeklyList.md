@@ -71,10 +71,6 @@ Day 14 (Sunday):
 - L : 
 - D : 
 
-Anytime:
-Bread + Peanut butter
-Cheerios
-
 
 ===============================================
 <h1>Feb 3rd - Feb 16th 2020</h1>
