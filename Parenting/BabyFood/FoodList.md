@@ -59,3 +59,9 @@ Protiens:
 
 Spices:
 - Cinamon
+
+Fast Food:
+
+Anytime:
+- Bread + Peanut butter
+- Cheerios
