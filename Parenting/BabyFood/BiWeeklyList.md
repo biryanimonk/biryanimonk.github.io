@@ -1,3 +1,75 @@
+<h1>2nd March - 15th March 2020 2020</h1>
+
+Day 1 (Monday):
+- B : Corn + blueberry + Cottage Cheese
+- L : Oats + Apple
+- D : Bhendi + Chapati/Rice
+
+Day 2 (Tuesday):
+- B : Mango + Scrambled Egg
+- L : Nachni + Yogurt
+- D : Moong + Chapati/Rice
+
+Day 3 (Wednesday):
+- B : Cheerios + Papaya/Cantalope + Tofu
+- L : Moong Dosa + Yogurt
+- D : Brocolli + Quinoa
+
+Day 4 (Thursday):
+- B : Avacado + Brocolli
+- L : Rava + Dry Fruits
+- D : Methi + Chapati/Rice
+
+Day 5 (Friday):
+- B : Oats + Banana
+- L : Dosa or Dhirdha + Yogurt
+- D : Chicken + Chapati/Rice
+
+Day 6 (Saturday):
+- B : Apple + Cinnamon
+- L : Salmon
+- D : 
+
+Day 7 (Sunday):
+- B : 
+- L : 
+- D : 
+
+Day 8 (Monday):
+- B : Peach/Pear + Cheese(/cottage)
+- L : Oats + Banana
+- D : Cabbage + Chapati/Rice
+
+Day 9 (Tuesday):
+- B : Berry + Scrambled Egg
+- L : Nachni + Yogurt
+- D : Urad daal + Chapati/Rice
+
+Day 10 (Wenesday):
+- B : Cheerios + Orange + String Cheese
+- L : Moong Dosa + Yogurt
+- D : Edmame/Peas + Quinoa
+
+Day 11 (Thursday):
+- B : Avacado + Brocolli
+- L : Rava + dry fruits
+- D : Black Channa + Chapati/Rice
+
+Day 12 (Friday):
+- B : Oats + Banana
+- L : Dosa or Dhirdha + Yogurt
+- D : Dudhi Bhopla + Chapati/Rice
+
+Day 13 (Saturday):
+- B : Sweet potato
+- L : Fish
+- D : 
+
+Day 14 (Sunday):
+- B : 
+- L : 
+- D : 
+
 ===============================================
 <h1>Feb 17th Feb - 1st March 2020</h1>
 
